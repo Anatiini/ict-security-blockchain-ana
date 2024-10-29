@@ -34,7 +34,11 @@ Exploit: Google dot bug. (j.o.h.n.doe@gmail.com and johndoe@gmail.com are the "s
 Vulnerability: Background checks were low-to-nonexistent during the COVID Pandemic for which the extra unemployment funds were meant to be used.
 Business impact: Upward to 400 billion USD lost.
 
-Reference links:
+## Installing Debian on VirtualBox
+
+Followed the instructions given in https://terokarvinen.com/2021/install-debian-on-virtualbox/. First problem was when trying to boot up the Linux it said "Not in a hypervision partition error". So I went to BIOS and enabled my CPU to boot up multiple systems at once. Next error was hen the system booted and I chose the live version, it said that the kernel doesn't recognize my CPU, which was i686. After this I found a helpful solution to change the Type of the Debian 32-bit to 64-bit and then it opened. Also it didn't let me login via the first install, guess I messed up the password, but the 2nd install it worked and everything went smoothly until the end. Also did a few push-ups while installing the Linux!
+
+## References
 https://terokarvinen.com/trust-to-blockchain/#homework
 https://recoverit.wondershare.com/partition-tips/not-in-a-hypervisor-partition.html
 https://adamlevin.com/2018/04/11/gmails-dots-are-a-bug-not-a-feature/
