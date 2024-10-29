@@ -33,3 +33,13 @@ Threat Actor: Scattered Canary, an organized cyber-fraud group
 Exploit: Google dot bug. (j.o.h.n.doe@gmail.com and johndoe@gmail.com are the "same account")
 Vulnerability: Background checks were low-to-nonexistent during the COVID Pandemic for which the extra unemployment funds were meant to be used.
 Business impact: Upward to 400 billion USD lost.
+
+Reference links:
+https://terokarvinen.com/trust-to-blockchain/#homework
+https://recoverit.wondershare.com/partition-tips/not-in-a-hypervisor-partition.html
+https://adamlevin.com/2018/04/11/gmails-dots-are-a-bug-not-a-feature/
+https://attack.mitre.org/resources/faq/
+https://darknetdiaries.com/transcript/141/
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
+https://terokarvinen.com/2021/install-debian-on-virtualbox/
+Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
