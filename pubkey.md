@@ -30,7 +30,13 @@ After authenticating the server, the client sends a string of bytes encrypted wi
 (https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/)
 
 # Messaging
-Encrypted a message using an online PGP tool. Tried sending emails between two of my old email addresses. Couldn't get it to work.
+Encrypted a message using the instructions at https://terokarvinen.com/2023/pgp-encrypt-sign-verify/. Worked perfectly except one time i had the error regarding no such file or directory. I had done the other tool first so there were the few keys which I had generated using Kleopatra in the mix as well. Everything was done using the LinuxVM. Here are a few pictures of the process:
+![keypair linuxille](https://github.com/user-attachments/assets/d2f1ed3e-7e30-4562-b469-67d5bbe6856e)
+![Alice keypair linuxille](https://github.com/user-attachments/assets/ebc10d90-08a6-4e58-83f2-f8525af5df37)
+![Kleopatralla luodut kummittelee](https://github.com/user-attachments/assets/93dd9c8a-3357-4012-abf4-03025760a1b2)
+![lopputulos](https://github.com/user-attachments/assets/6ea5d53d-d168-4492-8717-e0c47e3e40e8)
+
+
 
 # Other tool
 Tried installing Kleopatra on Virtual Linux and then simulated messaging with two folders and it succeeded. The software was hard to install as a windows user, but it worked fine when I got it running. I think the method's security is good, but all of the keys were
