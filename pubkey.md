@@ -37,7 +37,14 @@ Tried installing Kleopatra on Virtual Linux and then simulated messaging with tw
 in the same software, so that might present a risk as they weren't scattered in multiple places.
 
 # Eve and Mallory
-The security of the system is based on the privacy of the private keys. If Mallory ever gets hold of someone's private key, the system collapses. Don't know how Eve could be able to eavesdrop in through the PGP protocol. The protocol is extremely secure
+The security of the system is based on the privacy of the private keys. If Mallory ever gets hold of someone's private key, the system collapses. Don't know how Eve could be able to eavesdrop in through the PGP protocol. The protocol is extremely secure.
+
+# Password Manager
+With a password manager you are able to create a database, which houses your different passwords, and keep them all under 1 password. This password is recommended to be randomly generated or gibberish so that it is very secure. Then you can have the master password stored inside a hidden note or a file within your computer, so that there is little to no possibility of it getting into the wrong hands. The biggest pro in the usage of a password manager is it protects you from "credential stuffing" attacks, in which your one leaked password is tried on multiple different services since people who need to remember their passwords by themselves (without a password manager) tend to use the same credentials in different services.
+
+# Refer to Sources
+Done
+
 # References
 
 Tero Karvinen. Trust to Blockchain 2024.
@@ -60,3 +67,6 @@ https://www.varonis.com/blog/pgp-encryption
 
 PGP Tool
 https://pgptool.org/
+
+OWASP. Credential Stuffing.
+https://owasp.org/www-community/attacks/Credential_stuffing
