@@ -76,9 +76,14 @@ k) the password was butterfly!
 
   
 # References
-Schneier 2015: Applied Cryptography.
-Santos et al 2017: Security Penetration Testing - The Art of Hacking Series LiveLessons
-Karvinen 2022: Cracking Passwords with Hashcat
-Karvinen 2020: Command Line Basics Revisited
-Karvinen 2023 Crack File Password With John.
-MD5 Hash Generator
+Schneier 2015: Applied Cryptography. https://www.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/10_chap02.html#chap02-sec003
+
+Santos et al 2017: Security Penetration Testing - The Art of Hacking Series LiveLessons.  https://www.oreilly.com/videos/security-penetration-testing/9780134833989/9780134833989-sptt_00_06_00_00/
+
+Karvinen 2022: Cracking Passwords with Hashcat. https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
+
+Karvinen 2020: Command Line Basics Revisited. https://terokarvinen.com/2020/command-line-basics-revisited/
+
+Karvinen 2023 Crack File Password With John. https://terokarvinen.com/2023/crack-file-password-with-john/
+
+MD5 Hash Generator. https://www.md5hashgenerator.com/
