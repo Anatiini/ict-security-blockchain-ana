@@ -72,7 +72,10 @@ They weren't solely responsible but they were a major player. The GPUs are prett
 
 # References
 Bitcoin Difficulty. https://www.coinwarz.com/mining/bitcoin/difficulty-chart
+
 Satoshi Nakamoto. Bitcoin: A Peer-to-Peer Electronic Cash System. https://bitcoin.org/bitcoin.pdf
+
 https://terokarvinen.com/trust-to-blockchain/#homework
+
 How Much Energy Does Bitcoin Consume? https://crypto.com/bitcoin/bitcoin-energy-consumption
 
