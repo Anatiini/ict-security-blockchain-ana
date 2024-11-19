@@ -44,3 +44,23 @@ Sent it to another wallet which I created. Somehow the amount is now less, than 
 # Recycle
 And recycled back to the faucet!
 ![image](https://github.com/user-attachments/assets/d0c41a66-ba29-4b42-badf-4e70cdc21487)
+
+# Explorer
+Block size: How much disk space the block takes. Received time: When the block was validated. Total Transactions: The total number of transactions within the block. Confirmations: The number of times a new block has been accepted to the chain.
+Difficulty: the amount of hashes statistically needed to get the block's required hash. Rewards: The amount of bitcoin generated in the block. Block Hash: The hash or "fingerprint" of the block. Merkle root: The hash which contains all the transactions within the block.
+![image](https://github.com/user-attachments/assets/8565061c-7491-45fa-a875-1c3a41c54dfd)
+
+# Rogecoin
+Arguments made:
+Cryptos are easier to lose than real money.
+Cryptos are far more volatile.
+Cryptos destroy the environment.
+Cryptos can't be used to buy the vast majority of goods or services.
+
+
+
+# References
+Bitcoin Difficulty. https://www.coinwarz.com/mining/bitcoin/difficulty-chart
+Satoshi Nakamoto. Bitcoin: A Peer-to-Peer Electronic Cash System. https://bitcoin.org/bitcoin.pdf
+https://terokarvinen.com/trust-to-blockchain/#homework
+
