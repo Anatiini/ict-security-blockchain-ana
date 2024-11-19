@@ -51,16 +51,28 @@ Difficulty: the amount of hashes statistically needed to get the block's require
 ![image](https://github.com/user-attachments/assets/8565061c-7491-45fa-a875-1c3a41c54dfd)
 
 # Rogecoin
-Arguments made:
-Cryptos are easier to lose than real money.
-Cryptos are far more volatile.
-Cryptos destroy the environment.
-Cryptos can't be used to buy the vast majority of goods or services.
+Arguments in the video, answered to one-by-one.
+## Cryptos are far more volatile.
+Cryptocurrencies are more volatile, but this is not necessarily a con. There are many people, especially really young people who have amassed their fortunes with cryptocurrencies, since they have the same volatility upwards. They are inherently high-risk high-reward investments.
 
+## Cryptos destroy the environment.
+Cryptocurrencies are very intensive on the electrical bill because of the proof-of-work mechanism, which requires one to expend computing power and due to that, electricity. If Bitcoin's energy expenditure would be considered as its own country, Bitcoin would be ranked 27th on the list of most electricity consuming countries, right after Malaysia. The environmental effect is not minimal, but there is also some good news. According to the article, 50% of the energy used in Bitcoin mining comes from renewable sources, so the environmental effect is not as bad as the numbers would seem.
 
+## Cryptos can't be used to buy the vast majority of goods or services.
+This one is also true, although there are more and more people and businesses who deal with cryptocurrencies, they are still extremely rare to be used within the confines of the law. Illegal activity and transactions are usually done via cryptocurrencies, since they lack the monitoring trusted third party.
+
+## Cryptos value is false, since they have no practical use and aren't enforced by anything.
+There might be some use cases for the technology in the future, but for now it has not had any significant breakthroughs on where it could be used so that it would improve the old system. However, I could see that they have their value, since value is also in many other things regardless of their usefulness. For example, any brand, fashion or otherwise, is usually valuable in the minds of the customer's even though the product's usefulness is not more optimized than its competitors for its use case. There are also things like art. Art pieces value can  vary drastically from person to person.
+
+## Cryptos are unsafe, you can get scammed, hacked, the value plummets or you forget/lose the password and lose all your cryptos.
+There are many risks when dealing with a system which is not governed by a trusted third party, this increases the responsibility. One has to know more how the system works, when there isn't any professionals handling the transactions. This makes it riskier than dealing with a trusted third party. On the flip side, you can get scammed or hacked with your regular bank information also. Forgetting your PIN code or bank credentials doesn't end with the money disappearing, but it is much trouble in getting it back, even with the regular systems.
+
+## Cryptos were responsible for the price increase of GPUs.
+They weren't solely responsible but they were a major player. The GPUs are pretty advanced and the materials they require are rare. The start of the price increase was partly due to the crypto-mining boom, but the prices have stayed high, since the companies have noticed that people pay the ludicrous prices for their GPUs.
 
 # References
 Bitcoin Difficulty. https://www.coinwarz.com/mining/bitcoin/difficulty-chart
 Satoshi Nakamoto. Bitcoin: A Peer-to-Peer Electronic Cash System. https://bitcoin.org/bitcoin.pdf
 https://terokarvinen.com/trust-to-blockchain/#homework
+How Much Energy Does Bitcoin Consume? https://crypto.com/bitcoin/bitcoin-energy-consumption
 
