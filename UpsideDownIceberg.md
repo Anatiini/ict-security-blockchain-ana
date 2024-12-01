@@ -9,7 +9,9 @@
     against end-to-end attacks.
 
 ## De-anonymisation attacks on tor: A survey.
-  - 
+  - Increasing popularity of anonymity networks such as Tor, also increases illegal activity and misuse of the anonymity, therefore leading to bigger interest in the de-anonymisation of clients by different LEAs and governments. The survey reviews different de-anonymisation attacks and techniques.
+  - Anonymous connection systems are in increased demand to be used for sensitive communication between different millitary or business organizations. Also digital anonymity is very important in totalitarian states.
+  - The Onion Router (TOR) project is the most popular anonymity network. Its availability and ease-of-use transfers to it being used as an accessory in cybercrime.
 
 # References
 
