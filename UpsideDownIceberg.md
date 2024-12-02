@@ -13,6 +13,74 @@
   - Anonymous connection systems are in increased demand to be used for sensitive communication between different millitary or business organizations. Also digital anonymity is very important in totalitarian states.
   - The Onion Router (TOR) project is the most popular anonymity network. Its availability and ease-of-use transfers to it being used as an accessory in cybercrime.
 
+# TOR
+Downloaded TOR from its site. Tried the sudo apt-get command at first but it showed something like this, so decided to go with the browser-method.
+
+![image](https://github.com/user-attachments/assets/9f9d9399-5e07-4403-b95e-4c09de53cecb)
+
+Success with the browser method!
+
+![image](https://github.com/user-attachments/assets/ea38352c-75c4-4ec8-985d-b0811459bc35)
+
+Extracted it to a directory and now trying to launch it.
+
+![image](https://github.com/user-attachments/assets/0ffb34d6-05e7-4866-a585-68339dd77137)
+
+Launched it via the terminal. Had some error insinuating it is already on. Restarting the VM.
+
+![image](https://github.com/user-attachments/assets/9558e780-543e-4b3f-b4a3-b3f78df9cfce)
+
+Trying different ways to run it, doesn't seem to run, it either complains that "bash ./: is a directory, or it tells that it has bootstrapped and is running, but there is no window or any other sign it has turned on :(
+
+![image](https://github.com/user-attachments/assets/a0aefb38-673a-4c21-ace5-28e88b9bb773)
+
+Tried all sorts of solutions, and at last one of them worked which was "bash start-tor-browser" in the extracted directory.
+
+![image](https://github.com/user-attachments/assets/0ff39471-5b6e-430d-98f3-8aceb7b16970)
+
+And at last we are here:
+
+![image](https://github.com/user-attachments/assets/aa71f8b0-cea9-4128-a658-011f8c20f8ed)
+
+First up,, the search engine, went to Ahmia which was demonstrated in class, and changed to the .onion version of the site.
+
+![image](https://github.com/user-attachments/assets/26351852-3137-4cdb-bd79-404c84c78948)
+
+After that went to the Venus marketplace to check out the prices of illegal substances.
+
+![image](https://github.com/user-attachments/assets/7ccb47a5-d151-42b0-8ac1-5ae7299ee902)
+
+Went to check hidden wiki for more links to different places.
+
+![image](https://github.com/user-attachments/assets/637247ec-4f05-42c8-9005-7b840e040412)
+
+Looked for different deep web browsers, the ads on the right seemed very trustworthy :)
+
+![image](https://github.com/user-attachments/assets/7cfbbf65-2c48-4643-ab8e-1e1f095a119e)
+
+Looked for a life extraction service. Wondered why is the same link shown multiple times? The hash seems to be the same.
+
+![image](https://github.com/user-attachments/assets/fd862059-d6ff-42e0-8967-95f83c04d6ba)
+
+Next up looked for a forum and found reddit's onion version.
+
+![image](https://github.com/user-attachments/assets/cd1259f5-df7e-4bf8-9ff3-789087f4a460)
+
+Also here is BBC News .onion domain.
+
+![image](https://github.com/user-attachments/assets/6484844e-5c49-4428-9c32-1c47b2e6e7c2)
+
+All in all, the hidden wiki proved the most useful site to browse the dark web. Would use it if I had a need to browse the dark web.
+
+
+
+
+
+
+
+
+
+
 # References
 
 Homework. Assignments. https://terokarvinen.com/trust-to-blockchain/#h6-upside-down-iceberg
