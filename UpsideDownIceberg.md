@@ -12,6 +12,7 @@
   - Increasing popularity of anonymity networks such as Tor, also increases illegal activity and misuse of the anonymity, therefore leading to bigger interest in the de-anonymisation of clients by different LEAs and governments. The survey reviews different de-anonymisation attacks and techniques.
   - Anonymous connection systems are in increased demand to be used for sensitive communication between different millitary or business organizations. Also digital anonymity is very important in totalitarian states.
   - The Onion Router (TOR) project is the most popular anonymity network. Its availability and ease-of-use transfers to it being used as an accessory in cybercrime.
+  - Attacks on TOR are divided into 4 categories: Network disruption, de-anonymisation, censorship, and generic attacks.
 
 # TOR
 Downloaded TOR from its site. Tried the sudo apt-get command at first but it showed something like this, so decided to go with the browser-method.
@@ -73,15 +74,18 @@ Also here is BBC News .onion domain.
 All in all, the hidden wiki proved the most useful site to browse the dark web. Would use it if I had a need to browse the dark web.
 
 
+# Onion
+TOR builds anonymity by using 3 different nodes from which it connects to the server, each adding a layer of security. Basically the first entry-node which you connect to "knows" who you are, then it goes through a middle
+node and then an exit node, and the server only knows that it is communicating with the exit node. The 3 different layers are what gives it the name onion. Since onions have layers :)
 
-
-
-
-
+# Threat models of TOR
+In the usage of TOR, there are many threats or incidents which can occur. First, even though the anonymity provided by the browser is better than regular browsers, the anonymity is lessened by the number of people using it. More people using = more anonymity. So there might be an even higher chance of being de-anonymised even though the protection and hiding protocols would be better. There is also the criminal activity happening via the dark web. Since there are possibilities to remain anonym, this increases the cybercrime which happens in the dark web. This in turn increases the risks of collaborating with an illicit operator.
 
 
 
 # References
+
+Tor-project. https://www.torproject.org/download/
 
 Homework. Assignments. https://terokarvinen.com/trust-to-blockchain/#h6-upside-down-iceberg
 
