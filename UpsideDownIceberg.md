@@ -14,6 +14,11 @@
   - The Onion Router (TOR) project is the most popular anonymity network. Its availability and ease-of-use transfers to it being used as an accessory in cybercrime.
   - Attacks on TOR are divided into 4 categories: Network disruption, de-anonymisation, censorship, and generic attacks.
 
+## Phishsticks
+  - The video demonstrates pentesting done via a "phishstick", which is a malignant badUSB dropper disguised to look like a regular USB stick.
+  - In the video, the demonstrated payload used is a keylogger, with which the pentester obtains the password of the CEO.
+  - Truly the mastermind move was the social engineering through the note which got mr. CEO to insert the phishstick in the first place.
+
 # TOR
 Downloaded TOR from its site. Tried the sudo apt-get command at first but it showed something like this, so decided to go with the browser-method.
 
@@ -81,6 +86,11 @@ node and then an exit node, and the server only knows that it is communicating w
 # Threat models of TOR
 In the usage of TOR, there are many threats or incidents which can occur. First, even though the anonymity provided by the browser is better than regular browsers, the anonymity is lessened by the number of people using it. More people using = more anonymity. So there might be an even higher chance of being de-anonymised even though the protection and hiding protocols would be better. There is also the criminal activity happening via the dark web. Since there are possibilities to remain anonym, this increases the cybercrime which happens in the dark web. This in turn increases the risks of collaborating with an illicit operator.
 
+# Don't stick that stick
+  - PhishStick attacks work by inserting the malicious device into some of the company's hardware. There are different payloads and different attacks which can be used via a PhishStick, but the basis is to disguise it as a regular USB stick.
+  - A typical organization could be vulnerable, since the attacks usually target a singular person and where there is human judgment there is also a possibility for error.
+  - I think it links to a broader category of social engineering. They aren't external attacks done from miles away, but you have to physically get the piece of hardware to the target. Technically you could be far away, but doubt many will stick a totally random USB sent in mail in their company laptop.
+  - These risks are mitigated by security training, and good communication. Always make sure that a USB stick is truly from a trusted source before inserting it.
 
 
 # References
